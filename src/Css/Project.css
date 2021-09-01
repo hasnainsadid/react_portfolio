@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Project {
+  background-color: #15181f;
+  color: seashell;
+  height: 100%;
+  width: 100vw;
+}
+.card {
+  background-color: #34b7a7;
+  margin-bottom: 3rem;
+  color: black;
+}
