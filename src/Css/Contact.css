@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.contact{
+    background-color: #15181f;
+    color: seashell;
+    
+}
+.hr1{
+    border: 3px solid aqua;
+    width: 15%;
+    margin: 0 auto;
+    margin-top :1rem;
+    margin-bottom :1.5rem;
+}
+.link{
+    color: #51cdbe;
+    text-decoration: none;
+    transition: 1s;
+}
+.link:hover{
+    margin-left: 1rem;
+}
+textarea{
+    resize: none;
+    width: 100%;
+    /* margin-top: 1.5rem; */
+}

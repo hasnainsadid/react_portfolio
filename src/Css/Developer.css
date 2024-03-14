@@ -1,0 +1,35 @@
+.developer{
+    background-color: #15181f;
+    color: seashell;
+}
+.img{
+    width: 20rem;
+    height: 20rem;
+}
+.hr1{
+    border: 3px solid aqua;
+    width: 15%;
+    margin: 0 auto;
+    margin-top :1rem;
+    margin-bottom :1.5rem;
+}
+li{
+    list-style-type: none;
+}
+.about{
+    display: block;
+    text-align: justify;
+}
+.progress{
+    background: seashell;
+    border-bottom-left-radius : 1.5rem;
+    border-bottom-right-radius : 1.5rem;
+    margin-bottom: 2rem;
+    height: .5rem;
+}
+.progress-bar{
+    border-radius: 2rem;
+}
+.right{
+    float: right;
+}

@@ -1,0 +1,30 @@
+.image{
+    background-image: url(../Images/Background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    height: 100vh;
+    position: relative;
+}
+.home{
+    color: seashell;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    top: 50%;
+    right : 10%;
+    left: 10%;
+}
+.home_title{
+    font-size: 2.5rem;
+    font-family: 'Kaisei Opti', serif;
+    background: rgba(0, 0, 0, 0.3);
+}
+.home_desc{
+    font-size: 1.5rem;
+    background: rgba(0, 0, 0, 0.3);
+}
